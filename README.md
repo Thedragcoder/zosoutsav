@@ -1,4 +1,4 @@
-Hi 👋 My name is Utsav Gautam
+Utsav Gautam
 =============================
 
 Full stack, App development, Artificial intelligence
